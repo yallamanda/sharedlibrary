@@ -1,5 +1,5 @@
-def sum(a,b)
+def call(name)
 {
-  echo "The sum of ${a} and ${b} is ${a+b}"
+  echo "Hey ${name},How are you"
 
 }

@@ -1,3 +1,3 @@
 def call(){
-sh 'echo Hello DevOps Team,This is Shared library example'
+sh 'echo Deploy the war file into QA Server '
 }
